@@ -23,12 +23,12 @@ img {
     display: block;
     margin: 1rem auto;
     height: auto;
-    width: min-content;
+    width: 20rem;
 }
 
 .link {
-    padding: 5px;
-    margin: 5px;
+    padding: 0.5rem;
+    margin: 0.5rem;
     color: inherit;
     text-decoration: none;
     display: block;
@@ -44,6 +44,10 @@ li, p, ul, ol {
     margin: 0.5rem;
     padding: 0.5rem;
     border: none;
+}
+
+ul, ol {
+    margin: 1rem;
 }
 
 h2 {
